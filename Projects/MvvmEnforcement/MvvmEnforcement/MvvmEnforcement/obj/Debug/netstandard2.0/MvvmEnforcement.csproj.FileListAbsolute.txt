@@ -1,0 +1,15 @@
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\bin\Debug\netstandard2.0\MvvmEnforcement.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\bin\Debug\netstandard2.0\MvvmEnforcement.dll
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\bin\Debug\netstandard2.0\ref\MvvmEnforcement.dll
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\bin\Debug\netstandard2.0\MvvmEnforcement.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcementHomePage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcementModalPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.dll
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\ref\MvvmEnforcement.dll
+C:\Users\ianwi\Documents\Code\Xamarin\MvvmEnforcement\MvvmEnforcement\MvvmEnforcement\obj\Debug\netstandard2.0\MvvmEnforcement.pdb

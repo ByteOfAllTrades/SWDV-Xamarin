@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock.UWP\TaskDelayClock.UWP.csproj;x86

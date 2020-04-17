@@ -1,0 +1,14 @@
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\bin\Debug\netstandard2.0\AnimationTryout.deps.json
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\bin\Debug\netstandard2.0\AnimationTryout.dll
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\bin\Debug\netstandard2.0\ref\AnimationTryout.dll
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\bin\Debug\netstandard2.0\AnimationTryout.pdb
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.csprojAssemblyReference.cache
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryoutPage.xaml.g.cs
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.AssemblyInfoInputs.cache
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.AssemblyInfo.cs
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.dll
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\ref\AnimationTryout.dll
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout\obj\Debug\netstandard2.0\AnimationTryout.pdb

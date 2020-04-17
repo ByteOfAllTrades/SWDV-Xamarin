@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\bin\Debug\netstandard2.0\SinglePageNavigation.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\bin\Debug\netstandard2.0\SinglePageNavigation.dll
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\bin\Debug\netstandard2.0\ref\SinglePageNavigation.dll
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\bin\Debug\netstandard2.0\SinglePageNavigation.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigationPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.dll
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\ref\SinglePageNavigation.dll
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation\obj\Debug\netstandard2.0\SinglePageNavigation.pdb

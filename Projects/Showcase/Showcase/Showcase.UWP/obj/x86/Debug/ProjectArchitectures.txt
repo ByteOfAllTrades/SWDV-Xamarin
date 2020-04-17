@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\Showcase\Showcase\Showcase.UWP\Showcase.UWP.csproj;x86

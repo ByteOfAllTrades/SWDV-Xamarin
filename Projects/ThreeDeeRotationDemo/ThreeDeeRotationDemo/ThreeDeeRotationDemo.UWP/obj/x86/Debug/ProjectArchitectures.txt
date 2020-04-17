@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo.UWP\ThreeDeeRotationDemo.UWP.csproj;x86

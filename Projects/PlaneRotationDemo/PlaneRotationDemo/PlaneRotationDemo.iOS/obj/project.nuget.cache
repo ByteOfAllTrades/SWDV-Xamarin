@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLg6I7B6WIT7do9HAVnaHQLam8PEJ3adnOgMvvnytaHBXG1MaPxkd+JX8vpbtZFYD0LPNVv2ICi7KfNQp7MC3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\Projects\\PlaneRotationDemo\\PlaneRotationDemo\\PlaneRotationDemo.iOS\\PlaneRotationDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

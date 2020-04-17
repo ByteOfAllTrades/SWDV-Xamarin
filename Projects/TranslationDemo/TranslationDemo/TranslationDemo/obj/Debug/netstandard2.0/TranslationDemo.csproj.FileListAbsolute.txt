@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\bin\Debug\netstandard2.0\TranslationDemo.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\bin\Debug\netstandard2.0\TranslationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\bin\Debug\netstandard2.0\ref\TranslationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\bin\Debug\netstandard2.0\TranslationDemo.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemoPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\ref\TranslationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo\obj\Debug\netstandard2.0\TranslationDemo.pdb

@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo.UWP\AnchoredScaleDemo.UWP.csproj;x86

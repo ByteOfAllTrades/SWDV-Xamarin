@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uh5OS4iBwKqIjya7jP4yIvujtPwKpsxbjdd5PTupViH7o5kLzNCpoB7etq+Ujl6B71+Dcf1tRSn2fq4gaesEKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Desktop\\Xamarin\\testing123\\testing123\\testing123.iOS\\testing123.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

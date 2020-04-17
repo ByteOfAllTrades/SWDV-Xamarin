@@ -1,0 +1,8 @@
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\optimized\
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\SinglePageNavigation.iOS.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.iOS\obj\iPhone\Debug\SinglePageNavigation.iOS.csproj.CoreCompileInputs.cache

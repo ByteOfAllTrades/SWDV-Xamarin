@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3htWY/SQROewHh/W7S7gP1d6uWaPWsIterjNi/jViY8nE4CZSmUgcDVha0ezoeyVEvdV59juJ34mhcI7K5UCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\Projects\\AnchoredScaleDemo\\AnchoredScaleDemo\\AnchoredScaleDemo.iOS\\AnchoredScaleDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

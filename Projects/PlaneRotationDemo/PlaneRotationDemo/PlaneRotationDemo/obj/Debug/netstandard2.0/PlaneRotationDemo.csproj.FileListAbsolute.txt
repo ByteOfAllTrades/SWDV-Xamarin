@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemoPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\bin\Debug\netstandard2.0\PlaneRotationDemo.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\bin\Debug\netstandard2.0\PlaneRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\bin\Debug\netstandard2.0\ref\PlaneRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\bin\Debug\netstandard2.0\PlaneRotationDemo.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\ref\PlaneRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo\obj\Debug\netstandard2.0\PlaneRotationDemo.pdb

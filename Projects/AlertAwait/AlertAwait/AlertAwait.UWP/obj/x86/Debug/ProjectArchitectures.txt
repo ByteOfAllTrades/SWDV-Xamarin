@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait.UWP\AlertAwait.UWP.csproj;x86

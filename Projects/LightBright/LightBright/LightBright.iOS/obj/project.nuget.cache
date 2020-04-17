@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eu5Og0xtrMseo7C9r/doxv0GifxZwyjhNGzrdMMvulxv6azcs9g94Jb7mMTxOsASXby1/EZW7RrLw7WFyf8zzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Desktop\\Project 5 file\\Project 5 file\\LightBright\\LightBright\\LightBright.iOS\\LightBright.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\ianwi\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

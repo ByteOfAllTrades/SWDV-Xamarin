@@ -1,0 +1,13 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\bin\Debug\netstandard2.0\CircularText.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\bin\Debug\netstandard2.0\CircularText.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\bin\Debug\netstandard2.0\ref\CircularText.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\bin\Debug\netstandard2.0\CircularText.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\ref\CircularText.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText\obj\Debug\netstandard2.0\CircularText.pdb

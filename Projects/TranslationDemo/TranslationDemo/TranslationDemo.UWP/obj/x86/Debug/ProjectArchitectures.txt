@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TranslationDemo\TranslationDemo\TranslationDemo.UWP\TranslationDemo.UWP.csproj;x86

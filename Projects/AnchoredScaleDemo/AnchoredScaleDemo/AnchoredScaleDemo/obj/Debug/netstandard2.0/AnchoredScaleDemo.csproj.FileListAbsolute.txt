@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\bin\Debug\netstandard2.0\AnchoredScaleDemo.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\bin\Debug\netstandard2.0\AnchoredScaleDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\bin\Debug\netstandard2.0\ref\AnchoredScaleDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\bin\Debug\netstandard2.0\AnchoredScaleDemo.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemoPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\ref\AnchoredScaleDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\AnchoredScaleDemo\AnchoredScaleDemo\AnchoredScaleDemo\obj\Debug\netstandard2.0\AnchoredScaleDemo.pdb

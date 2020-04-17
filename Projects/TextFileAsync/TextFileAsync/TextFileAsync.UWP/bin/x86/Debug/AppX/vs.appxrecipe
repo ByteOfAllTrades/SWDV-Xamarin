@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-HJOH8PMG</Machine>
+    <WindowsUser>KoboldCoder</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=9054fcc4-b58f-412c-8717-d0bdb4538d69</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>982B4E026EB0DB0F69216C48A7F68D22FCAAD937F7370D27C9C95C9D816AB2E7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>27bf6f28-dd99-4e6f-a4f7-b6fb5498767f_1.0.0.0_x86__knr67teb1z11m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>27bf6f28-dd99-4e6f-a4f7-b6fb5498767f_knr67teb1z11m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>27bf6f28-dd99-4e6f-a4f7-b6fb5498767f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=9054fcc4-b58f-412c-8717-d0bdb4538d69</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:26:27.181</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\TextFileAsync.UWP.exe">
+      <PackagePath>entrypoint\TextFileAsync.UWP.exe</PackagePath>
+      <Modified>2020-04-08T16:26:23.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP.UWP\bin\x86\Debug\XFBP.UWP.exe">
+      <PackagePath>XFBP.UWP.exe</PackagePath>
+      <Modified>2020-04-08T16:26:09.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-28T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2016-11-30T08:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.essentials\1.5.2\lib\uap10.0.16299\Xamarin.Essentials.dll">
+      <PackagePath>Xamarin.Essentials.dll</PackagePath>
+      <Modified>2020-03-27T23:02:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2020-03-31T06:57:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+      <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
+      <Modified>2020-03-31T06:57:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2020-03-31T06:57:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2020-03-31T06:57:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\TextFileAsync.dll">
+      <PackagePath>TextFileAsync.dll</PackagePath>
+      <Modified>2020-04-08T16:26:12.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP.UWP\bin\x86\Debug\XFBP.dll">
+      <PackagePath>XFBP.dll</PackagePath>
+      <Modified>2020-04-08T16:26:06.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2016-11-30T08:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-19T00:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
+      <Modified>2020-03-31T06:57:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-08T16:03:41.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-04-08T16:03:41.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\TextFileAsync.UWP.xr.xml">
+      <PackagePath>TextFileAsync.UWP.xr.xml</PackagePath>
+      <Modified>2020-04-08T16:26:23.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-04-08T16:26:23.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-04-08T16:26:23.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2019-03-19T00:43:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T23:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2019-12-12T09:48:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-04-08T16:26:24.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\bin\x86\Debug\Core\TextFileAsync.UWP.exe">
+      <PackagePath>TextFileAsync.UWP.exe</PackagePath>
+      <Modified>2020-04-08T16:26:27.158</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
+      <Name>Microsoft.UI.Xaml.2.3</Name>
+      <Version>2.31912.11002.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
+      <Name>Microsoft.UI.Xaml.2.3</Name>
+      <Version>2.31912.11002.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx">
+      <Name>Microsoft.UI.Xaml.2.3</Name>
+      <Version>2.31912.11002.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx">
+      <Name>Microsoft.UI.Xaml.2.3</Name>
+      <Version>2.31912.11002.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx">
+      <Name>Microsoft.UI.Xaml.2.3</Name>
+      <Version>2.31912.11002.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ianwi\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ianwi\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

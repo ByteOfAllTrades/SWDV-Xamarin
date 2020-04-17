@@ -1,0 +1,17 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\TextFileAsync.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\TextFileAsync.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\ref\TextFileAsync.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\TextFileAsync.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\XFBP.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\bin\Debug\netstandard2.0\XFBP.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsyncPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.csproj.CopyComplete
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\ref\TextFileAsync.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync\obj\Debug\netstandard2.0\TextFileAsync.pdb

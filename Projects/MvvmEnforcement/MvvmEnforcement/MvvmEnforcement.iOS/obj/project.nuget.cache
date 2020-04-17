@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMd5wAnDoayBF87l1zpFAdtmqiGYm0/VoBWjzdpL6QMyvXieJ1ycpOYeIcTBld9ZuoExKgIUc5yKALPoH9f8XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\MvvmEnforcement\\MvvmEnforcement\\MvvmEnforcement.iOS\\MvvmEnforcement.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

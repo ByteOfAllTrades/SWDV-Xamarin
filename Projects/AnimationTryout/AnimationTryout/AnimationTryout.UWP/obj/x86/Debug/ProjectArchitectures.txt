@@ -1,0 +1,1 @@
+C:\Users\ianwi\source\repos\AnimationTryout\AnimationTryout\AnimationTryout.UWP\AnimationTryout.UWP.csproj;x86

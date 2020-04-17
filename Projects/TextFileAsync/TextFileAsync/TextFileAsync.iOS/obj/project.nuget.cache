@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEbYLo6NcPtN5CNA4KRLtV3cDJ4VTKNtMEf/hMLRg13MjJEW6IXNJZKd+PPfNDKRuuxFXm7dPLgMWGv3IdYvRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\Projects\\TextFileAsync\\TextFileAsync\\TextFileAsync.iOS\\TextFileAsync.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\ianwi\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512"
+  ],
+  "logs": []
+}

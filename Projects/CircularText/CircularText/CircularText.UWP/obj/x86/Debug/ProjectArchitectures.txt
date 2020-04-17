@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircularText\CircularText\CircularText.UWP\CircularText.UWP.csproj;x86

@@ -1,0 +1,27 @@
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.csprojAssemblyReference.cache
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBrightPage.xaml.g.cs
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.AssemblyInfoInputs.cache
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.AssemblyInfo.cs
+C:\Xam\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.deps.json
+C:\Xam\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.dll
+C:\Xam\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\ref\LightBright.dll
+C:\Xam\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.pdb
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.dll
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\ref\LightBright.dll
+C:\Xam\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.pdb
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.deps.json
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\ref\LightBright.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\bin\Debug\netstandard2.0\LightBright.pdb
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.csprojAssemblyReference.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBrightPage.xaml.g.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.AssemblyInfoInputs.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.AssemblyInfo.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\ref\LightBright.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\LightBright\LightBright\LightBright\obj\Debug\netstandard2.0\LightBright.pdb

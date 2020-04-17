@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\ModelessandModal\ModelessandModal\ModelessandModal.UWP\ModelessandModal.UWP.csproj;x86

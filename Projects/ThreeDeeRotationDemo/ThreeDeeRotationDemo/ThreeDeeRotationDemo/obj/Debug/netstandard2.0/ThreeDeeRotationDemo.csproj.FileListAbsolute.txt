@@ -1,0 +1,13 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\bin\Debug\netstandard2.0\ThreeDeeRotationDemo.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\bin\Debug\netstandard2.0\ThreeDeeRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\bin\Debug\netstandard2.0\ref\ThreeDeeRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\bin\Debug\netstandard2.0\ThreeDeeRotationDemo.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemoPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemo.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemo.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ref\ThreeDeeRotationDemo.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\ThreeDeeRotationDemo\ThreeDeeRotationDemo\ThreeDeeRotationDemo\obj\Debug\netstandard2.0\ThreeDeeRotationDemo.pdb

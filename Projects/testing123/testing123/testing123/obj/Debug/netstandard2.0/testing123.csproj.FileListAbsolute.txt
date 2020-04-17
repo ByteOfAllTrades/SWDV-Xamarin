@@ -1,0 +1,14 @@
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\bin\Debug\netstandard2.0\testing123.deps.json
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\bin\Debug\netstandard2.0\testing123.dll
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\bin\Debug\netstandard2.0\ref\testing123.dll
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\bin\Debug\netstandard2.0\testing123.pdb
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.csprojAssemblyReference.cache
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.AssemblyInfoInputs.cache
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.AssemblyInfo.cs
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.dll
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\ref\testing123.dll
+C:\Users\ianwi\Desktop\Xamarin\testing123\testing123\testing123\obj\Debug\netstandard2.0\testing123.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FI2PqXNpTG/vODVNN8D8mLWVKvnf2OFwsCAEstTmXlmvYPtScz08+P9ciqVkdzjA3vmTx2Uwsok89gZ4bZ0lLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\Projects\\ThreeDeeRotationDemo\\ThreeDeeRotationDemo\\ThreeDeeRotationDemo.iOS\\ThreeDeeRotationDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

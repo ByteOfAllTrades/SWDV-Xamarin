@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\bin\Debug\netstandard2.0\CircleButton.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\bin\Debug\netstandard2.0\CircleButton.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\bin\Debug\netstandard2.0\ref\CircleButton.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\bin\Debug\netstandard2.0\CircleButton.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButtonPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\ref\CircleButton.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\CircleButton\CircleButton\CircleButton\obj\Debug\netstandard2.0\CircleButton.pdb

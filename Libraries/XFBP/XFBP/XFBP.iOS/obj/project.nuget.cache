@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rvU2rDb0cN/LW50v52tOrcEmqyUlSf01/QqHzKPs0OoOuGEyl2ShjFgL5bOiPII4+Q33kSs0h2M2iGU6q5sTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\Libraries\\XFBP\\XFBP\\XFBP.iOS\\XFBP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\ianwi\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512"
+  ],
+  "logs": []
+}

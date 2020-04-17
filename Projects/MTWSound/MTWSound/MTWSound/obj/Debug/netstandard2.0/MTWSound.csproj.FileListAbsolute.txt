@@ -1,0 +1,22 @@
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.csprojAssemblyReference.cache
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MonkeyTapPage.xaml.g.cs
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfoInputs.cache
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfo.cs
+C:\Xam\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.deps.json
+C:\Xam\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.dll
+C:\Xam\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\ref\MTWSound.dll
+C:\Xam\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.pdb
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.dll
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\ref\MTWSound.dll
+C:\Xam\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.pdb
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.csprojAssemblyReference.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MonkeyTapPage.xaml.g.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfoInputs.cache
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfo.cs
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\ref\MTWSound.dll
+C:\Users\ianwi\Desktop\Project 5 file\Project 5 file\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.pdb

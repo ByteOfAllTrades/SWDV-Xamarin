@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xjbxev8SOlrMfJ/Mu37bA/vTdJ1KNG73HayhwdkV4ASeZakHBZXD7Vpde6D6wFei63+68c7kSouXqxy5xH2Vjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianwi\\Documents\\Code\\Xamarin\\AlertAwait\\AlertAwait\\AlertAwait.iOS\\AlertAwait.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianwi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

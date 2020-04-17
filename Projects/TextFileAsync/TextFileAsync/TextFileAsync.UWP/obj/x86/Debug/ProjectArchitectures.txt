@@ -1,0 +1,2 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP.UWP\XFBP.UWP.csproj;x86
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\TextFileAsync\TextFileAsync\TextFileAsync.UWP\TextFileAsync.UWP.csproj;x86

@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\bin\Debug\netstandard2.0\AlertAwait.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\bin\Debug\netstandard2.0\AlertAwait.dll
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\bin\Debug\netstandard2.0\ref\AlertAwait.dll
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\bin\Debug\netstandard2.0\AlertAwait.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwaitPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.dll
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\ref\AlertAwait.dll
+C:\Users\ianwi\Documents\Code\Xamarin\AlertAwait\AlertAwait\AlertAwait\obj\Debug\netstandard2.0\AlertAwait.pdb

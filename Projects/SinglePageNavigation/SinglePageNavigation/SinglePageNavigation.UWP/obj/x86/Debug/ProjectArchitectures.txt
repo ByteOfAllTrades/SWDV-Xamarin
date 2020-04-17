@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\SinglePageNavigation\SinglePageNavigation\SinglePageNavigation.UWP\SinglePageNavigation.UWP.csproj;x86

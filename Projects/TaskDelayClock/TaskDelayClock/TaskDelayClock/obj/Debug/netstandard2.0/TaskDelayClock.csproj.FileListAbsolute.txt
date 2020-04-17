@@ -1,0 +1,14 @@
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\bin\Debug\netstandard2.0\TaskDelayClock.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\bin\Debug\netstandard2.0\TaskDelayClock.dll
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\bin\Debug\netstandard2.0\ref\TaskDelayClock.dll
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\bin\Debug\netstandard2.0\TaskDelayClock.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.csprojAssemblyReference.cache
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClockPage.xaml.g.cs
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.dll
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\ref\TaskDelayClock.dll
+C:\Users\ianwi\Documents\Code\Xamarin\TaskDelayClock\TaskDelayClock\TaskDelayClock\obj\Debug\netstandard2.0\TaskDelayClock.pdb

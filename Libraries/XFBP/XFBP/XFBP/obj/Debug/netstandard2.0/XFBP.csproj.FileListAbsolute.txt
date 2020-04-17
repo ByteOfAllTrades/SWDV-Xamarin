@@ -1,0 +1,11 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\bin\Debug\netstandard2.0\XFBP.deps.json
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\bin\Debug\netstandard2.0\XFBP.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\bin\Debug\netstandard2.0\ref\XFBP.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\bin\Debug\netstandard2.0\XFBP.pdb
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XFBP.csproj.CoreCompileInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XFBP.AssemblyInfoInputs.cache
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XFBP.AssemblyInfo.cs
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XFBP.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\ref\XFBP.dll
+C:\Users\ianwi\Documents\Code\Xamarin\Libraries\XFBP\XFBP\XFBP\obj\Debug\netstandard2.0\XFBP.pdb

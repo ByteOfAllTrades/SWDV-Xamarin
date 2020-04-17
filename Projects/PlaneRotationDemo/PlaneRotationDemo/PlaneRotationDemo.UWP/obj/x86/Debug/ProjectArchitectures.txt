@@ -1,0 +1,1 @@
+C:\Users\ianwi\Documents\Code\Xamarin\Projects\PlaneRotationDemo\PlaneRotationDemo\PlaneRotationDemo.UWP\PlaneRotationDemo.UWP.csproj;x86
